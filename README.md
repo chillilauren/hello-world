@@ -1,9 +1,6 @@
 # hello-world
 
-This is a demo project!
+This is a project!
 
-list
-* 1
-* 2
-* 3
+Add more text
 
